@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on any project as long as it entails money,personal development,community change and the humanity as a whole.
 - 📫 How to reach me email me: vitomscatenathe1@gmail.com
--       
+- i joined ALX and am hoping to gain more.   
 
 <!---
 3kcpadvitoms/3kcpadvitoms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
