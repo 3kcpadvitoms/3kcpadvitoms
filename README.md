@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @3kcpadvitoms from Kenya software developer working on web development while my heads are up toward being a fullstack and above all a grey hat hacker.
+- 👋 Hi, I’m @vitomscatena from Kenya software developer working on web development while my heads are up toward being a fullstack and above all a grey hat hacker.
 - i am currently working on Javascript $ React js.
-- 👀 I’m interested in being a front end web developer,cinematographer,web designer and above all cyber security expert.
+- 👀 I’m interested in being a front end web developer,cinematographer,web designer.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on any project as long as it entails money,personal development,community change and the humanity as a whole.
 - 📫 How to reach me email me: vitomscatenathe1@gmail.com
